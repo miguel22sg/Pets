@@ -1,0 +1,6 @@
+C:\Users\MASan\source\repos\Pets\Entidad3\bin\Debug\Entidad3.dll
+C:\Users\MASan\source\repos\Pets\Entidad3\bin\Debug\Entidad3.pdb
+C:\Users\MASan\source\repos\Pets\Entidad3\obj\Debug\Entidad3.csproj.AssemblyReference.cache
+C:\Users\MASan\source\repos\Pets\Entidad3\obj\Debug\Entidad3.csproj.CoreCompileInputs.cache
+C:\Users\MASan\source\repos\Pets\Entidad3\obj\Debug\Entidad3.dll
+C:\Users\MASan\source\repos\Pets\Entidad3\obj\Debug\Entidad3.pdb

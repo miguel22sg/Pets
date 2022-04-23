@@ -1,0 +1,15 @@
+C:\Users\MASan\source\repos\Pets\Datos\bin\Debug\Datos.dll
+C:\Users\MASan\source\repos\Pets\Datos\bin\Debug\Datos.pdb
+C:\Users\MASan\source\repos\Pets\Datos\bin\Debug\Entidad.dll
+C:\Users\MASan\source\repos\Pets\Datos\bin\Debug\Entidad.pdb
+C:\Users\MASan\source\repos\Pets\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\MASan\source\repos\Pets\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\MASan\source\repos\Pets\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\MASan\source\repos\Pets\Datos\obj\Debug\Datos.dll
+C:\Users\MASan\source\repos\Pets\Datos\obj\Debug\Datos.pdb
+C:\Users\MASan\source\repos\Pets\Datos\bin\Debug\Entidad2.dll
+C:\Users\MASan\source\repos\Pets\Datos\bin\Debug\Entidad3.dll
+C:\Users\MASan\source\repos\Pets\Datos\bin\Debug\Entidad4.dll
+C:\Users\MASan\source\repos\Pets\Datos\bin\Debug\Entidad2.pdb
+C:\Users\MASan\source\repos\Pets\Datos\bin\Debug\Entidad3.pdb
+C:\Users\MASan\source\repos\Pets\Datos\bin\Debug\Entidad4.pdb

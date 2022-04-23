@@ -1,0 +1,17 @@
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Negocio.dll
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Negocio.pdb
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Datos.dll
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Entidad.dll
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Datos.pdb
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Entidad.pdb
+C:\Users\MASan\source\repos\Pets\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\MASan\source\repos\Pets\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\MASan\source\repos\Pets\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\MASan\source\repos\Pets\Negocio\obj\Debug\Negocio.dll
+C:\Users\MASan\source\repos\Pets\Negocio\obj\Debug\Negocio.pdb
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Entidad2.dll
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Entidad3.dll
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Entidad4.dll
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Entidad2.pdb
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Entidad3.pdb
+C:\Users\MASan\source\repos\Pets\Negocio\bin\Debug\Entidad4.pdb
